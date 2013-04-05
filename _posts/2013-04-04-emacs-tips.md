@@ -13,4 +13,6 @@ Emacs is a very powerful editor. As the emacs manual puts it, it is an **advance
 | M-SPC | just-one-space          | Retain just one space             |
 | M-\   | delete-horizontal-space | Remove all spaces around point    |
 
+Hopefully these aren't among those that you already knew.
+
 {% include JB/setup %}
