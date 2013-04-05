@@ -12,6 +12,7 @@ Emacs is a very powerful editor. As the emacs manual puts it, it is an **advance
 | M-m   | back-to-indentation     | Move to first non-whitespace char |
 | M-SPC | just-one-space          | Retain just one space             |
 | M-\   | delete-horizontal-space | Remove all spaces around point    |
+| C-h l | view-lossage            | List the last few key presses
 
 Hopefully these aren't among those that you already knew.
 
