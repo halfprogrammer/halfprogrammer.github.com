@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Learn You A Editor"
-description: ""
+description: "Why you should learn a editor"
 category: "editor"
-tags: ["editor", "productivity"]
+tags: ["editor", "productivity", "vim", "emacs"]
 ---
 I know I am not the first person to recommend you this. I don't even believe I will be among the first million people to make this recommendation. It's still worth pointing out the importance of being comfortable with at least one good editor.  "Why", you may ask, "should I spend I time learning a editor rather than implementing my favorite missing feature in my favorite project?". The short answer is it *increases focus and productivity*; the long answer is the rest of the blog post.
 
